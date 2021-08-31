@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Sticky Nav</title>
-    <link rel="stylesheet" href="stickynav-styles.css">
+    <link rel="stylesheet" href="css/stickynav-styles.css">
 </head>
 <body>
 
