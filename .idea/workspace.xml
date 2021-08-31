@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen).">
-      <change afterPath="$PROJECT_DIR$/css/flexpanelsimagegallery-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flexpanelsimagegallery-index.php" afterDir="false" />
+    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Husk man kan ændre transition på panel, for at få teksten og selx elementer, til at zoom ind og ud samt aktiveres på forskellige intervaller.  &#10;Java fortæller, det der er stylet i css, til at aktiveres, så det kommer frem på skærmen.">
+      <change afterPath="$PROJECT_DIR$/css/cssvariablesandjs-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cssvariablesandjs-index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xU1xNsglqGS0xBhj7bAv259p8X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630395099204</updated>
       <workItem from="1630395100374" duration="111000" />
-      <workItem from="1630405211013" duration="5958000" />
+      <workItem from="1630405211013" duration="9053000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1630405852561</created>
@@ -70,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630408220439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Husk man kan ændre transition på panel, for at få teksten og selx elementer, til at zoom ind og ud samt aktiveres på forskellige intervaller.  &#10;Java fortæller, det der er stylet i css, til at aktiveres, så det kommer frem på skærmen.">
+      <created>1630412037663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630412037663</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
     <MESSAGE value="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen)." />
+    <MESSAGE value="Husk man kan ændre transition på panel, for at få teksten og selx elementer, til at zoom ind og ud samt aktiveres på forskellige intervaller.  &#10;Java fortæller, det der er stylet i css, til at aktiveres, så det kommer frem på skærmen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Husk man kan ændre transition på panel, for at få teksten og selx elementer, til at zoom ind og ud samt aktiveres på forskellige intervaller.  &#10;Java fortæller, det der er stylet i css, til at aktiveres, så det kommer frem på skærmen." />
   </component>
 </project>
