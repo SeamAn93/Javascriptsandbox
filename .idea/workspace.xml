@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="setup">
-      <change afterPath="$PROJECT_DIR$/css/follwalonglinks-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/followalonglinks-index.php" afterDir="false" />
+    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen).">
+      <change afterPath="$PROJECT_DIR$/css/flexpanelsimagegallery-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexpanelsimagegallery-index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630395099204</updated>
       <workItem from="1630395100374" duration="111000" />
-      <workItem from="1630405211013" duration="2684000" />
+      <workItem from="1630405211013" duration="5958000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1630405852561</created>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630406055161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen).">
+      <created>1630408220439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630408220439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup" />
+    <MESSAGE value="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen)." />
   </component>
 </project>
