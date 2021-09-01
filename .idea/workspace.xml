@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Setup til custom video player">
+    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Hvad er tryllekunsterens livret? :D">
+      <change afterPath="$PROJECT_DIR$/konamicode-index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customcideoplayer-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/customcideoplayer-index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/customvideoplayer-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/customvideoplayer-script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="PHP skabalon" />
         <option value="CSS skabelon" />
         <option value="JavaScript File" />
+        <option value="PHP skabalon" />
       </list>
     </option>
   </component>
@@ -35,12 +34,15 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1xU1xNsglqGS0xBhj7bAv259p8X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,7 +59,7 @@
       <updated>1630395099204</updated>
       <workItem from="1630395100374" duration="111000" />
       <workItem from="1630405211013" duration="12658000" />
-      <workItem from="1630479148780" duration="4831000" />
+      <workItem from="1630479148780" duration="8800000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1630405852561</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630480064329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Hvad er tryllekunsterens livret? :D">
+      <created>1630484272603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630484272603</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,12 +136,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="setup" />
     <MESSAGE value="Husk man kan ændre transition, for at higglight vises hurtigere eller langsomere (animationen)." />
     <MESSAGE value="Husk man kan ændre transition på panel, for at få teksten og selx elementer, til at zoom ind og ud samt aktiveres på forskellige intervaller.  &#10;Java fortæller, det der er stylet i css, til at aktiveres, så det kommer frem på skærmen." />
     <MESSAGE value="Variabler kan updatere enhver elementer, og enhver selector i hvert elementer vil bruge den" />
     <MESSAGE value="Igen kan transfrom i css, skabe dybde i &quot;animationen&quot; fx ved hvor meget af img der ligger uden for skærmen og bliver skubbet ind, og om img skal starte mindre og så scale op til fuld størrelse. &#10;Husk, java får kun billederne / elementer til at aktiver handlingen, styles er CSS." />
     <MESSAGE value="Setup til custom video player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup til custom video player" />
+    <MESSAGE value="Hvad er tryllekunsterens livret? :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hvad er tryllekunsterens livret? :D" />
   </component>
 </project>
