@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <title>HTML Video Player</title>
     <link rel="stylesheet" href="css/customvideoplayer-styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
 <?php include 'includes/menu.php';?>
-
+<div class="body1">
 <div class="player">
     <video class="player__video viewer" src="652333414.mp4"></video>
 
@@ -23,7 +24,7 @@
         <button data-skip="10" class="player__button">10s »</button>
     </div>
 </div>
-
+</div>
 <script src="js/customvideoplayer-script.js"></script>
 </body>
 </html>

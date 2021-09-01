@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Mouse Shadow</title>
     <link rel="stylesheet" href="css/textshadowmousemoveeffect-styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 

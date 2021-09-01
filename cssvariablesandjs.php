@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Scoped CSS Variables and JS</title>
     <link rel="stylesheet" href="css/cssvariablesandjs-styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 

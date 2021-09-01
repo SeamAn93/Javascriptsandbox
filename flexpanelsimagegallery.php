@@ -5,6 +5,7 @@
     <title>Flex Panels 💪</title>
     <link href='https://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/flexpanelsimagegallery-styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 

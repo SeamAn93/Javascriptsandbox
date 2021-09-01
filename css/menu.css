@@ -32,12 +32,13 @@ img {
     height: auto;
 }
 
-.menu {
+.navmenu {
     background-color: white;
     min-height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 0px;
 }
 
 button {

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
     <link rel="stylesheet" href="css/slideinonscroll.styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 

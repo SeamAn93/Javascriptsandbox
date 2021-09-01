@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Sticky Nav</title>
     <link rel="stylesheet" href="css/stickynav-styles.css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 

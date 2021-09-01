@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Svar: Tar'tar. :D">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/textshadowmousemoveeffect-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textshadowmousemoveeffect.php" afterDir="false" />
+    <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssvariablesandjs-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/cssvariablesandjs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customcideoplayer-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/customvideoplayer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexpanelsimagegallery-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/flexpanelsimagegallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/followalonglinks-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/followalonglinks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konamicode-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/konamicode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideinonscroll-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/slideinonscroll.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/customvideoplayer-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/customvideoplayer-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssvariablesandjs.php" beforeDir="false" afterPath="$PROJECT_DIR$/cssvariablesandjs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customvideoplayer.php" beforeDir="false" afterPath="$PROJECT_DIR$/customvideoplayer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexpanelsimagegallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/flexpanelsimagegallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/followalonglinks.php" beforeDir="false" afterPath="$PROJECT_DIR$/followalonglinks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/konamicode.php" beforeDir="false" afterPath="$PROJECT_DIR$/konamicode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slideinonscroll.php" beforeDir="false" afterPath="$PROJECT_DIR$/slideinonscroll.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stickynav-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/stickynav-index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textshadowmousemoveeffect.php" beforeDir="false" afterPath="$PROJECT_DIR$/textshadowmousemoveeffect.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <updated>1630395099204</updated>
       <workItem from="1630395100374" duration="111000" />
       <workItem from="1630405211013" duration="12658000" />
-      <workItem from="1630479148780" duration="15016000" />
+      <workItem from="1630479148780" duration="16132000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1630405852561</created>
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630488708372</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver">
+      <created>1630499423427</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630499423427</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +170,7 @@
     <MESSAGE value="Setup til custom video player" />
     <MESSAGE value="Hvad er tryllekunsterens livret? :D" />
     <MESSAGE value="Svar: Tar'tar. :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Svar: Tar'tar. :D" />
+    <MESSAGE value="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver" />
   </component>
 </project>

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Key Detection</title>
     <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
