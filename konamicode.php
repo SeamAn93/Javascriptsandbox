@@ -6,6 +6,9 @@
     <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
 </head>
 <body>
+
+<?php include 'includes/menu.php';?>
+
 <script>
 const pressed = [];
 const secretCode = 'fallout';

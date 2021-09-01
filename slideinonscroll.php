@@ -7,6 +7,8 @@
 </head>
 <body>
 
+<?php include 'includes/menu.php';?>
+
 <div class="site-wrap">
 
     <h1>Slide in on Scroll</h1>

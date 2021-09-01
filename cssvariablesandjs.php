@@ -6,6 +6,9 @@
     <link rel="stylesheet" href="css/cssvariablesandjs-styles.css">
 </head>
 <body>
+
+<?php include 'includes/menu.php';?>
+
 <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
 
 <div class="controls">

@@ -7,6 +7,8 @@
 </head>
 <body>
 
+<?php include 'includes/menu.php';?>
+
 <div class="player">
     <video class="player__video viewer" src="652333414.mp4"></video>
 

@@ -8,6 +8,8 @@
 </head>
 <body>
 
+<?php include 'includes/menu.php';?>
+
 <div class="panels">
     <div class="panel panel1">
         <p>Hey</p>

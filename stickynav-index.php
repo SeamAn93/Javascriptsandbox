@@ -7,6 +7,8 @@
 </head>
 <body>
 
+<?php include 'includes/menu.php';?>
+
 <header>
     <h1>A story about getting lost.</h1>
 </header>
