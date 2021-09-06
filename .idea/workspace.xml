@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50b80b2c-3b06-4db0-a01d-42815c7dfbbb" name="Changes" comment="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver">
+      <change afterPath="$PROJECT_DIR$/css/todoapp-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/localstorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsclass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsimporteksport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todoapp.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/customvideoplayer-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/customvideoplayer-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssvariablesandjs.php" beforeDir="false" afterPath="$PROJECT_DIR$/cssvariablesandjs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customvideoplayer.php" beforeDir="false" afterPath="$PROJECT_DIR$/customvideoplayer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexpanelsimagegallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/flexpanelsimagegallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/followalonglinks.php" beforeDir="false" afterPath="$PROJECT_DIR$/followalonglinks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konamicode.php" beforeDir="false" afterPath="$PROJECT_DIR$/konamicode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideinonscroll.php" beforeDir="false" afterPath="$PROJECT_DIR$/slideinonscroll.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stickynav-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/stickynav-index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textshadowmousemoveeffect.php" beforeDir="false" afterPath="$PROJECT_DIR$/textshadowmousemoveeffect.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +26,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="PHP skabalon" />
+        <option value="PHP MMD" />
         <option value="CSS skabelon" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -56,8 +57,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Javascriptsandbox2" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,6 +73,10 @@
       <workItem from="1630395100374" duration="111000" />
       <workItem from="1630405211013" duration="12658000" />
       <workItem from="1630479148780" duration="16132000" />
+      <workItem from="1630565073215" duration="794000" />
+      <workItem from="1630660681921" duration="331000" />
+      <workItem from="1630662282624" duration="3106000" />
+      <workItem from="1630910282172" duration="16882000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1630405852561</created>
@@ -172,5 +178,9 @@
     <MESSAGE value="Svar: Tar'tar. :D" />
     <MESSAGE value="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver" />
     <option name="LAST_COMMIT_MESSAGE" value="Små rettelser og en lille menu linje så man kan clicke frem og tilbage mellem opgaver" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

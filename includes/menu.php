@@ -7,4 +7,5 @@
     <a href="konamicode.php"><button type="button">Konami code</button></a>
     <a href="slideinonscroll.php"><button type="button">Slide scroll</button></a>
     <a href="stickynav-index.php"><button type="button">Sticky nav</button></a>
+    <a href="https://github.com/SeamAn93" target="_blank"><button type="button">GitHub</button></a>
 </div>
